@@ -1,0 +1,6 @@
+﻿{
+  "checkEvery" : 1,
+  "killAfter" : 120,
+  "executablePath" : "C:\\Users\\kedalen\\Desktop\\ExecutableTest\\WindowsNoEditor\\MyProject.exe",
+  "checkFilesPath" : "C:\\Users\\kedalen\\Desktop\\Checks"
+}
